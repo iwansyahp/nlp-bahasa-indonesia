@@ -124,6 +124,7 @@ Software, Library, Kamus
 - [Sastrawi](https://github.com/sastrawi/sastrawi) - Stemmer PHP untuk Bahasa Indonesia.
 - [Sastrawi python] (https://github.com/har07/sastrawi/tree/master) - Stemmer python bahasa indonesia porting dari sastrawi PHP
 - [Indonesia Morphology] (http://septinalarasati.com/work/morphind/) - Analisa morfologi bahasa indonesia
+- [POS Tag Indonesia] (https://sites.google.com/site/alfanfw89/softwares-resources) - POS Taging bahasa indonesia menggunakan HMM wicaksono & purwanti
 
 
 Berkontribusi
