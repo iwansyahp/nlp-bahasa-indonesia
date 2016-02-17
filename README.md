@@ -123,6 +123,7 @@ Software, Library, Kamus
 - [Kateglo](http://kateglo.com/) - Kamus, Tesaurus, dan Glosarium Bahasa Indonesia.
 - [Sastrawi](https://github.com/sastrawi/sastrawi) - Stemmer PHP untuk Bahasa Indonesia.
 - [Sastrawi python] (https://github.com/har07/sastrawi/tree/master) - Stemmer python bahasa indonesia porting dari sastrawi PHP
+- [Indonesia Morphology] (http://septinalarasati.com/work/morphind/) - Analisa morfologi bahasa indonesia
 
 
 Berkontribusi
