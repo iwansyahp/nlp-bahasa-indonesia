@@ -16,7 +16,6 @@ Kumpulan thesis, paper, dan artikel tentang NLP (_Natural Language Processing_) 
     - [Software, Library, Kamus](#software-library-kamus)
     - [Berkontribusi](#berkontribusi)
 - [Machine Learning](#machine-learning)
-    - [Maksimum Entropy](#maksimum-entropy)
 
 Memulai
 =======
@@ -128,9 +127,9 @@ Software, Library, Kamus
 - [POS Tag Indonesia] (https://sites.google.com/site/alfanfw89/softwares-resources) - POS Taging bahasa indonesia JAVA menggunakan HMM, wicaksono & purwanti 
 
 Machine Learning
-=======================
+================
 - Maksimum Entropy
--   [NER](https://aclweb.org/anthology/W/W03/W03-0424.pdf)
+    - [NER](https://aclweb.org/anthology/W/W03/W03-0424.pdf)
 
 
 Berkontribusi
