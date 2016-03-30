@@ -7,7 +7,7 @@ Kumpulan thesis, paper, dan artikel tentang NLP (_Natural Language Processing_) 
 
 - [NLP Bahasa Indonesia](#nlp-bahasa-indonesia)
     - [Memulai](#memulai)
-    - [Automatic Summarization](#automatic-summarizatio)
+    - [Automatic Summarization](#automatic-summarization)
     - [Parsing](#parsing)
     - [Part-of-speech Tagging](#part-of-speech-tagging)
     - [Stemming](#stemming)
@@ -15,7 +15,8 @@ Kumpulan thesis, paper, dan artikel tentang NLP (_Natural Language Processing_) 
     - [Lain-lain](#lain-lain)
     - [Software, Library, Kamus](#software-library-kamus)
     - [Berkontribusi](#berkontribusi)
-
+- [Machine Learning](#machine-learning)
+    - [Maksimum Entropy](#maksimum-entropy)
 
 Memulai
 =======
@@ -125,6 +126,11 @@ Software, Library, Kamus
 - [Sastrawi python] (https://github.com/har07/sastrawi/tree/master) - Stemmer python bahasa indonesia porting dari sastrawi PHP
 - [Indonesia Morphology] (http://septinalarasati.com/work/morphind/) - Analisa morfologi bahasa indonesia
 - [POS Tag Indonesia] (https://sites.google.com/site/alfanfw89/softwares-resources) - POS Taging bahasa indonesia JAVA menggunakan HMM, wicaksono & purwanti 
+
+Machine Learning
+=======================
+- Maksimum Entropy
+-   [NER](https://aclweb.org/anthology/W/W03/W03-0424.pdf)
 
 
 Berkontribusi
