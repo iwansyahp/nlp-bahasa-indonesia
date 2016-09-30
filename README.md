@@ -84,6 +84,10 @@ Stemming
 
   A. D. Tahitoe, D. Purwitasari. Institut Teknologi Sepuluh Nopember (ITS) – Surabaya.
 
+Stop Word Removal
+=================
+-  [A Study of Stemming Effects on Information Retrieval in Bahasa Indonesia](http://www.illc.uva.nl/Research/Reports/MoL-2003-02.text.pdf)
+    Tala, F. Z. (2003). A Study of Stemming Effects on Information Retrieval in Bahasa Indonesia. M.S. thesis. M.Sc. Thesis. Master of Logic Project. Institute for Logic, Language and Computation. Universiteti van Amsterdam The Netherlands
 
 Word Sense Disambiguation
 =========================
